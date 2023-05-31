@@ -7,20 +7,22 @@
     "APC":"AP Chemistry",
     "HB":"Honors Biology",
     "APB":"AP Biology",
-
+    
+    "H10": "Honors 10 English",
     "APELANG":"AP English Language",
     "APELIT": "AP English Literature",
-
-    "APS":"AP Statistics",
+    
+    "PREA": "Precalculus A",
+    "PREB": "Precalculus B",
+    "PREAB": "Precalculus AB",
+    "APPRE":"AP Precalculus",
     "LINALG":"Linear Algebra",
     "DE":"Differential Equations",
     "APCAB":"AP Calculus AB",
     "APCBC":"AP Calculus BC",
     "GT":"Game Theory",
 
-    "APWH":"AP World History",
-    "APEH":"AP European History",
-    "HCPCS":"Honors Colonial and Post-Colonial Studies",
+    "APWH":"AP US History",
 
     "LATIN":"Latin",
     "SPANISH":"Spanish",
@@ -28,12 +30,19 @@
     "MANDARIN":"Mandarin",
     
     "L":"Lunch",
-
+    
+    "IPROG":"Intro to Programming",
+    "IENG":"Intro to Engineering",
+    "IBUS":"Intro to Business",
     "APCSA":"AP Computer Science A",
     "APCSP":"AP Computer Science Principles",
     "APECON":"AP Economics",
+    "TECON":"Topics in Economics",
+    "APCHN":"AP Chinese",
     "APPSY":"AP Psychology",
     "APMT":"AP Music Theory",
+    "APES": "AP Environmental Science",
+    "APS":"AP Statistics",
     "DP":"Digital Photography",
     "PJ":"Photojournalism",
     "AG":"Ancient Greek",
@@ -41,5 +50,9 @@
     "BIOTECH":"Biotechnology",
     "EE":"Empowering Entrepreneurs",
     "GUITAR":"Guitar",
-    "PIANO":"Piano"
+    "PIANO":"Piano",
+    "DRAMA":"Upper School Drama",
+    "PE":"PE and Sports",
+    "ART": "AP 2D Art and Design / Art Studio 2D",
+    "APAH": "AP Art History",
 }
