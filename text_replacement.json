@@ -8,13 +8,13 @@
     "HB":"Honors Biology",
     "APB":"AP Biology",
     
-    "H10": "Honors 10 English",
+    "H10":"Honors 10 English",
     "APELANG":"AP English Language",
-    "APELIT": "AP English Literature",
+    "APELIT":"AP English Literature",
     
-    "PREA": "Precalculus A",
-    "PREB": "Precalculus B",
-    "PREAB": "Precalculus AB",
+    "PREA":"Precalculus A",
+    "PREB":"Precalculus B",
+    "PREAB":"Precalculus AB",
     "APPRE":"AP Precalculus",
     "LINALG":"Linear Algebra",
     "DE":"Differential Equations",
@@ -54,5 +54,5 @@
     "DRAMA":"Upper School Drama",
     "PE":"PE and Sports",
     "ART": "AP 2D Art and Design / Art Studio 2D",
-    "APAH": "AP Art History",
+    "APAH": "AP Art History"
 }
