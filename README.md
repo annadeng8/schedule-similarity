@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 
 ## Overview
-This repository is the source code for the Streamlit web app [Schedule Similarity](https://iuruoy-shao-schedule-similarity-main-sz6k3f.streamlit.app/). Created using the [Streamlit API](https://streamlit.io/), student class schedule data for the 2023-24 school year is stored and analysis is done to allow students to compare their schedules with their peers, search for students in a given class, and view whom has the highest classes in common with them.
+This repository is the source code for the Streamlit web app [Schedule Similarity](https://annadeng8-schedule-similarity-main-0l6c26.streamlit.app/). Created using the [Streamlit API](https://streamlit.io/), student class schedule data for the 2023-24 school year is stored and analysis is done to allow students to compare their schedules with their peers, search for students in a given class, and view whom has the highest classes in common with them. This site was adapted from Yourui Shao's [Schedule Similarity](https://iuruoy-shao-schedule-similarity-main-sz6k3f.streamlit.app/) site with permission.
 
 ## Functionality
 ### The Sidebar
@@ -58,4 +58,4 @@ Displays how many classes each student shares with every other, colored for clar
 3. Expand to different grades/schools
 
 [Streamlit]: https://img.shields.io/badge/Streamlit-View%20Site-000000?style=flat-square&logo=streamlit&logoColor=#FF4B4B
-[site-url]: https://iuruoy-shao-schedule-similarity-main-sz6k3f.streamlit.app/
+[site-url]: [https://iuruoy-shao-schedule-similarity-main-sz6k3f.streamlit.app/](https://annadeng8-schedule-similarity-main-0l6c26.streamlit.app/)
